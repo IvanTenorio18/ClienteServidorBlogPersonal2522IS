@@ -6,7 +6,7 @@ use App\Models\direccion;
 
 
 Route::get('/', function () {
-    $info = new Informacion();
+    $info = new informacion();
     $info->nombre ="Luis Iván";
     $info->apellido="Tenorio Garcia";
     $info->edad="20 años";

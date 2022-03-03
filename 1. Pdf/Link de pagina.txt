@@ -1,2 +1,0 @@
------ Link -----
-https://blogpersonal2.herokuapp.com/
